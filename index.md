@@ -13,8 +13,8 @@
 <h4><a id="Its_just_that_simple_8"></a>I’ts just that simple!</h4>
 <p>Dont be like this guy!</p>
 <p><img src="bad.jpg" alt=""></p>
-<h3><a id="Not_cool_14"></a>Not cool</h3>
-<p>Be like him!</p>
+<h3><a id="Not_cool!_14"></a>Not cool</h3>
+<h4>Be like him!</h4>
 <p><img src="good.jpg" alt=""></p>
 <h2><a id="OH_YEAH_20"></a>OH YEAH!</h2>
 

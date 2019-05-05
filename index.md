@@ -14,7 +14,7 @@
 <p>Dont be like this guy!</p>
 <p><img src="bad.jpg" alt=""></p>
 <h3><a id="Not_cool!_14"></a>Not cool!</h3>
-<h4>Be like him!</h4>
+<h2>Be like him!</h2>
 <p><img src="good.jpg" alt=""></p>
 <h2><a id="OH_YEAH_20"></a>OH YEAH!</h2>
 

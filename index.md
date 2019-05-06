@@ -1,5 +1,5 @@
 <h1>The greatest invention on earth!</h1>
-[See our heart-ripping testimonials!](/testimonials)
+[See our heart-ripping testimonials!](https://islandboyfish10.github.io/stylusbananas/)
 
 <h3>Stylus Bananas!</h3>
 

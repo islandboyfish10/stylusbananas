@@ -30,4 +30,4 @@
 <h1><a id="_4"></a></h1>
 <h1><a id="_5"></a></h1>
 <h1><a id="_6"></a></h1>
-<h5><a id="Read_this_to_see_how_to_get_startedrules_7"></a><a href="/stylusbananas/rules.md">Read this to see how to get started.</a></h5>
+<h5><a id="Read_this_to_see_how_to_get_startedrules_7"></a><a href="/stylusbananas/rules">Read this to see how to get started.</a></h5>

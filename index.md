@@ -23,3 +23,11 @@
 
 <p>Get your stylus bananas today at 20 <strong>PERCENT OFF</strong> with free shipping and handling using the  <strong>PROMO CODE:</strong> <strong>EAT-YOUR-STYLUS</strong> Today!</p>
  
+<h2><a id="We_want_to_hear_from_you_0"></a>We want to hear from you!!</h2>
+<h3><a id="Send_your__new_ideas_to_stylusbananasvivaldinet_1"></a>Send your  new ideas to: <a href="mailto:stylusbananas@vivaldi.net">stylusbananas@vivaldi.net</a></h3>
+<h4><a id="It_will_take_about_1_to_3_business_days_for_StylusBananas_Icn_to_reveiw_and_approve_your_idea_2"></a>It will take about 1 to 3 business days for StylusBananas Icn. to reveiw and approve your idea!</h4>
+<h1><a id="_3"></a></h1>
+<h1><a id="_4"></a></h1>
+<h1><a id="_5"></a></h1>
+<h1><a id="_6"></a></h1>
+<h5><a id="Read_this_to_see_how_to_get_startedrules_7"></a><a href="/rules">Read this to see how to get started.</a></h5>
